@@ -3,6 +3,9 @@ package com.piramide.ui;
 public class Menu {
     public static void principal(){
         System.out.println("Hola caracola");
-        System.out.println("Usuario");
+    }
+
+    public void usuarios(){
+        System.out.println("Rama ui");
     }
 }
