@@ -6,7 +6,6 @@ public class Menu {
     }
 
     public void usuarios(){
-
         System.out.println("Rama develop");
     }
 }
